@@ -17,7 +17,7 @@ def part_two(file_path):
 
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
-file_path = os.path.join(script_dir, 'input6.txt')
+file_path = os.path.join(script_dir, 'input7.txt')
 
 partOne = part_one(file_path)
 print(f"Part One: {partOne}")
